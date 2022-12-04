@@ -1327,8 +1327,8 @@ decamelize@^1.0.0, decamelize@^1.1.1:
   resolved "https://registry.yarnpkg.com/decamelize/-/decamelize-1.2.0.tgz#f6534d15148269b20352e7bee26f501f9a191290"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
 
 deep-extend@^0.6.0:
   version "0.6.0"
@@ -3092,9 +3092,9 @@ pseudomap@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/pseudomap/-/pseudomap-1.0.2.tgz#f052a28da70e618917ef0a8ac34c1ae5a68286b3"
 
-pts@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/pts/-/pts-0.5.0.tgz#07a2a8a09844c2a36d2785b65daa905e919410a4"
+pts@^0.8.3:
+  version "0.8.11"
+  resolved "https://registry.yarnpkg.com/pts/-/pts-0.8.11.tgz#5a7f8c901ca8d13710cd5c02e60c56fef4e9a830"
 
 public-encrypt@^4.0.0:
   version "4.0.2"
